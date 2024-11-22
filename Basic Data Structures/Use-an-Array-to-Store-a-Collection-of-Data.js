@@ -1,0 +1,1 @@
+let yourArray = [true, false, 1, "Ankith", {'age': 21, 'gender': 'Male'}]; // Change this line
